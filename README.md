@@ -66,4 +66,4 @@ A public ledger validating fundamental command-line engineering operations.
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lexiemurray) | Austin, TX (Hybrid/Remote)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lexie-murray-6656247/) | Austin, TX (Hybrid/Remote)
