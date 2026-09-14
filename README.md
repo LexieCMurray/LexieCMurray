@@ -38,10 +38,6 @@ An internal workspace designed to analyze media narratives, share of voice, and 
 ### 🎯 Social Media Strategist
 An operational framework focused on strategy execution, designed to structure automated workflow concepts that scale brand messaging cleanly across technical channels.
 
-### 📦 Git Learning Log (`git-learning-log`)
-A public ledger validating fundamental command-line engineering operations.
-* **Technical Details:** Tracks active command-line proficiency including repository initialization, custom branching (`main`), staged workflow management, and remote cloud deployment via Git.
-
 ---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lexie-murray-6656247/) | Austin, TX (Hybrid/Remote)
