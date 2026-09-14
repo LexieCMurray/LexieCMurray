@@ -29,28 +29,6 @@ I am a Strategic Communications Leader operating at the intersection of B2B tech
 
 ---
 
-## 🗺️ Strategic Brand & Comms Roadmap
-
-### Phase 1: Immerse & Align (Days 1–30)
-* **Narrative Audit:** Evaluating your existing brand voice against market trends to identify gaps in your positioning.
-* **Executive Calibration:** Conducting 1:1 sessions with leadership to unify the corporate vision and messaging tone across all channels.
-* **Baseline Benchmarking:** Analyzing competitor brand sentiment and share-of-voice to establish clear growth KPIs.
-* **Deliverables:** A comprehensive Verbal Identity System and a Core Messaging Framework.
-
-### Phase 2: Build Strategy & Storylines (Days 31–60)
-* **Positioning Pillars:** Developing four core pillars: 1. What we believe | 2. Who we serve | 3. The problem we uniquely solve | 4. Proof points & messaging framework.
-* **Thought Leadership Architecture:** Mapping out executive platform strategies for high-impact speaking and digital presence.
-* **Analyst Alignment:** Ensuring brand narratives are synchronized with upcoming Gartner or Forrester positioning.
-* **Deliverables:** Positioning pillars, messaging framework & Executive Visibility Plan.
-
-### Phase 3: Execute & Scale Visibility (Days 61–90+)
-* **Multi-Channel Activation:** Launching brand campaigns across social, digital, and internal channels to drive brand authority via a scalable comms playbook.
-* **Content Acceleration:** Deploying AI-powered workflows to scale high-quality thought leadership and product storytelling.
-* **Performance & Brand Analytics:** Delivering ROI-driven reporting with Nielsen, Google Analytics, Cision, and Sprout.
-* **Deliverables:** A 12-month integrated comms playbook & calendar.
-
----
-
 ## 🚀 Projects & Technical Validation
 
 ### 🔍 Media Positioning Analyzer (`media-positioning-analyzer`)
